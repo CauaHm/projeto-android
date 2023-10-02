@@ -96,6 +96,7 @@ main {
 }
 
 main h1 {
+    font-size: 3em;
     color: var(--cor5);
     font-family: var(--fonte-destaque);
 }
@@ -103,7 +104,7 @@ main h1 {
 main h2 {
     font-family: var(--fonte-destaque);
     color: var(--cor4); 
-    font-size: 1.4em;
+    font-size: 2.4em;
     background-image: linear-gradient(to right, var(--cor0), transparent);
 }
 
