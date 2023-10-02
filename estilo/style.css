@@ -97,11 +97,11 @@ main {
 
 main h1 {
     color: var(--cor5);
-    font-family: var(--font-android);
+    font-family: var(--fonte-destaque);
 }
 
 main h2 {
-    font-family: var(--font-android);
+    font-family: var(--fonte-destaque);
     color: var(--cor4); 
     font-size: 1.4em;
     background-image: linear-gradient(to right, var(--cor0), transparent);
